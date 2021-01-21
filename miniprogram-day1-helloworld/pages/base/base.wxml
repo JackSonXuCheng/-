@@ -1,0 +1,4 @@
+<!--pages/base/base.wxml-->
+<text>hello world</text>
+<button size="mini">点击按钮</button>
+<image src="https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3363295869,2467511306&fm=26&gp=0.jpg">图片</image>
