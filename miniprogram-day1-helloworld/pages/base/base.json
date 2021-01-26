@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "navigationBarTitleText": "基础页面",
+  "enablePullDownRefresh": true, 
+  "backgroundTextStyle": "dark",
+  "backgroundColor": "#ffffff"
 }
